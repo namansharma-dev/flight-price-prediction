@@ -1,8 +1,6 @@
-Project title:
 # Flight Price Prediction
 Machine learning web application that predicts airline ticket prices based on user inputs.
 
-Tech Stack:
 ## Tech Stack
 Python  
 Flask  
@@ -11,14 +9,12 @@ Scikit-learn
 HTML  
 CSS
 
-Features:
 ## Features
 - Predict flight ticket prices
 - Machine learning model using Random Forest
 - Simple web interface using Flask
 - Uses historical flight data
 
-Run Locally:
 ## Run Locally
 
 Clone the project
