@@ -1,5 +1,5 @@
 pip
-setuptools
+setuptools>=68.0.0
 wheel
 Flask==2.2.5
 Flask-Cors==3.0.10
