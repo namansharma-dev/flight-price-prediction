@@ -1,16 +1,79 @@
-body {
-    background-color: #e1f4f3;
-    text-align: center;
+body{
+font-family: 'Poppins', sans-serif;
+background: linear-gradient(135deg,#2b5876,#4e4376);
+min-height:100vh;
+margin:0;
+color:white;
 }
 
-.navbar {
-    background-color: #333333;
+.navbar{
+background: rgba(0,0,0,0.7);
+backdrop-filter: blur(10px);
+padding:15px;
 }
 
-a {
-    color: #f1f9f9;
+.navbar-brand{
+font-size:22px;
+font-weight:600;
+color:white !important;
 }
 
-a:hover {
-    color: #f0f0f0;
-  }
+.container{
+margin-top:60px;
+}
+
+.card{
+background: rgba(255,255,255,0.15);
+backdrop-filter: blur(15px);
+border:none;
+border-radius:12px;
+color:white;
+box-shadow:0 10px 30px rgba(0,0,0,0.3);
+transition:0.3s;
+}
+
+.card:hover{
+transform:translateY(-5px);
+}
+
+.card-title{
+font-weight:500;
+}
+
+input,select{
+width:100%;
+padding:10px;
+border-radius:6px;
+border:none;
+outline:none;
+}
+
+input:focus,select:focus{
+box-shadow:0 0 10px rgba(255,255,255,0.5);
+}
+
+.btn{
+margin-top:20px;
+padding:12px 35px;
+background:#ff7b00;
+border:none;
+border-radius:8px;
+font-weight:500;
+transition:0.3s;
+}
+
+.btn:hover{
+background:#ff5500;
+transform:scale(1.05);
+}
+
+h3{
+margin-top:30px;
+font-size:26px;
+font-weight:500;
+}
+
+p{
+margin-top:30px;
+opacity:0.7;
+}
