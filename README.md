@@ -1,4 +1,39 @@
+<<<<<<< HEAD
 # Flight Fare Prediction: 
+=======
+# Flight Price Prediction
+Machine learning web application that predicts airline ticket prices based on user inputs.
+
+## Tech Stack
+Python  
+Flask  
+Pandas  
+Scikit-learn  
+HTML  
+CSS
+
+## Features
+- Predict flight ticket prices
+- Machine learning model using Random Forest
+- Simple web interface using Flask
+- Uses historical flight data
+
+## Run Locally
+
+Clone the project
+
+git clone https://github.com/namansharma-dev/flight-price-prediction
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run the app
+
+python app.py
+
+
+>>>>>>> 8519d666339af3ea691decf1610d0db7de0e6916
 
 ## Table of Content
   * [Demo](#demo)
