@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Flight Fare Prediction: 
-=======
+https://flight-price-prediction-y2t1.onrender.com/
 # Flight Price Prediction
 Machine learning web application that predicts airline ticket prices based on user inputs.
 
