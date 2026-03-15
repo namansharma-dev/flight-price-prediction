@@ -1,9 +1,8 @@
-pip
-setuptools>=68.0.0
+setuptools==68.2.2
 wheel
 Flask==2.2.5
 Flask-Cors==3.0.10
-gunicorn==20.1.0
+gunicorn==21.2.0
 
 numpy==1.26.4
 pandas==1.5.3
